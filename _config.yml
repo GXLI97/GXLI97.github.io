@@ -1,20 +1,23 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Gene Li
+email:       gxli@princeton.edu
+author:      Gene Li
+description: "A personal website."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://gxli97.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+ - home.md
  - about.md
- - contact.html
+ - coursework.md
+ - projects.md
+ - blog.html
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-131026526-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -25,7 +28,7 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
@@ -51,7 +54,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: GXLI97
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -59,7 +62,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: genexjl@gmail.com
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -123,7 +126,6 @@ paginate:     4
 sass:
   style: compressed
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
