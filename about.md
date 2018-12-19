@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+Here is my [CV]({{site.url}}/pdfs/gene_li_resume.pdf).
+
 ### Timeline
 * 2015-2019: B.S.E in Electrical Engineering at Princeton University.
 * Summer '18: SWE Intern, Microsoft, Boston, MA.
