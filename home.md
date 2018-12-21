@@ -23,5 +23,6 @@ Other things I enjoy:
  * sports analytics.
  * powerlifting.
 
+[CV]({{site.url}}/pdfs/gene_li_resume.pdf).
 
 If you want to get in touch, you can reach me at: [gxli dot princeton dot edu].
