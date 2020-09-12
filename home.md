@@ -6,25 +6,10 @@ permalink: /
 
 <img style="float:right;margin:20px;" src="{{site.url}}/images/picme.jpg" width="150">
 
-Hello! My name is Gene Li. I am currently a senior in the Electrical Engineering Department at Princeton University.
+Hello! My name is Gene Li. I'm a second year PhD student at the [Toyota Technological Institute at Chicago](https://ttic.edu/), where I'm advised by [Nathan Srebro](https://ttic.uchicago.edu/~nati/). I'm broadly interested in theoretical machine learning.
 
-This is a personal website for me to keep track of the things I've done and hope to do.
+I graduated with a BSE from the [Electrical Engineering](https://ee.princeton.edu/) department at Princeton University. There, I had the pleasure of working with [Yuxin Chen](http://www.princeton.edu/~yc5/) and [Emmanuel Abbe](https://web.math.princeton.edu/~eabbe/).
 
-My academic interests include:
- * high-dimensional statistics.
- * reinforcement learning.
- * natural language processing.
- * optimization.
+If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 
-Other things I enjoy:
- * specialty coffee.
- * cooking.
- * chess.
- * sports analytics.
- * powerlifting.
-
-[CV]({{site.url}}/pdfs/gene_li_resume.pdf).
-
-If you want to get in touch, you can reach me at: [gxli dot princeton dot edu].
-
-Website last updated Feb 2019.
+Website last updated September 2020.
