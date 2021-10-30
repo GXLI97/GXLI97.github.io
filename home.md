@@ -14,14 +14,14 @@ I'm broadly interested in theoretical machine learning and decision making. Rece
 
 If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 
-You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene-li-cv.pdf).
+You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pdf).
 
 ## Publications
-* Exponential Family Model-Based Reinforcement Learning via Score Matching
-Gene Li, Junbo Li, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.
+* Exponential Family Model-Based Reinforcement Learning via Score Matching\
+Gene Li, Junbo Li, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.\
 Deep Reinforcement Learning Workshop, NeurIPS, 2021.
-* Eluder Dimension and Generalized Rank
-Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.
+* Eluder Dimension and Generalized Rank\
+Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\
 arXiv, 2021.
 
 Website last updated October 2021.
