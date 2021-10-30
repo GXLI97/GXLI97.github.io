@@ -19,8 +19,8 @@ You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pd
 ## Publications
 * Exponential Family Model-Based Reinforcement Learning via Score Matching\
 Gene Li, Junbo Li, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.\
-Deep Reinforcement Learning Workshop, NeurIPS, 2021.
-* Eluder Dimension and Generalized Rank\
+Deep Reinforcement Learning Workshop, NeurIPS, 2021. _arXiv link forthcoming!_
+* [Eluder Dimension and Generalized Rank](https://arxiv.org/abs/2104.06970)\
 Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\
 arXiv, 2021.
 
