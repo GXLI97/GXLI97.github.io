@@ -24,4 +24,7 @@ Deep Reinforcement Learning Workshop, NeurIPS, 2021. _arXiv link forthcoming!_
 Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\
 arXiv, 2021.
 
+## Notes
+[Some notes on learning theory]({{site.url}}/pdfs/learning_theory.pdf). These notes are mostly for my own personal reference, but others may find them useful. Any mistakes are my own.
+
 Website last updated October 2021.
