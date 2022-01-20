@@ -17,9 +17,9 @@ If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pdf).
 
 ## Publications
-* Exponential Family Model-Based Reinforcement Learning via Score Matching\
+* [Exponential Family Model-Based Reinforcement Learning via Score Matching](https://arxiv.org/abs/2112.14195)\
 Gene Li, Junbo Li, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.\
-Deep Reinforcement Learning Workshop, NeurIPS, 2021. _arXiv link forthcoming!_ [[Poster]]({{site.url}}/pdfs/poster_smrl.pdf)
+Deep Reinforcement Learning Workshop, NeurIPS, 2021. [[Poster]]({{site.url}}/pdfs/poster_smrl.pdf)
 * [Eluder Dimension and Generalized Rank](https://arxiv.org/abs/2104.06970)\
 Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\
 arXiv, 2021.
