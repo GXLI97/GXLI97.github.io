@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /
+usemathjax: true
 ---
 
 <img style="float:right;margin:20px;" src="{{site.url}}/images/picme.jpg" width="150">
