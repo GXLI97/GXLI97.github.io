@@ -23,7 +23,7 @@ You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pd
 
 ## Publications
 * [Pessimism for Offline Linear Contextual Bandits using $\ell_p$ Confidence Sets](https://arxiv.org/abs/2205.10671)\
-Gene Li, Cong Ma, Nathan Srebro.
+Gene Li, Cong Ma, Nathan Srebro.\
 arxiv, 2022. [[Poster]]({{site.url}}/pdfs/poster_pess.pdf)
 * [Understanding the Eluder Dimension](https://arxiv.org/abs/2104.06970)\
 Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\

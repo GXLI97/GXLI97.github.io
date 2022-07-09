@@ -37,11 +37,11 @@
     {% endif %}
 
     <!-- MathJax -->
-    {% if site.enable_mathjax %}
+    {% if page.usemathjax %}
     <script type="text/javascript" async
-        src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-    {% endif %}
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+      </script>
+    {% end if %}
 
     <!-- Verifications -->
     {% if site.google_verification %}
