@@ -16,15 +16,13 @@ If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 
 You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pdf).
 
-Testing $1+1 =2$.
-
 ## Recent News
 * Spending Summer 2022 at Princeton University, working with [Prof. Jason Lee](https://jasondlee88.github.io).
 * Co-organized the [TTIC Student Workshop](https://ttic-student-workshop.github.io) in August 2021.
 * Spent Fall 2020 as a (virtual) visiting graduate student at the [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program at the [Simons Institute](https://simons.berkeley.edu).
 
 ## Publications
-* [Pessimism for Offline Linear Contextual Bandits using $\ell_p$ Confidence Sets](https://arxiv.org/abs/2205.10671)\
+* [Pessimism for Offline Linear Contextual Bandits using $$\ell_p$$ Confidence Sets](https://arxiv.org/abs/2205.10671)\
 Gene Li, Cong Ma, Nathan Srebro.\
 arxiv, 2022. [[Poster]]({{site.url}}/pdfs/poster_pess.pdf)
 * [Understanding the Eluder Dimension](https://arxiv.org/abs/2104.06970)\
