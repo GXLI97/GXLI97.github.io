@@ -17,6 +17,8 @@ If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 
 You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pdf).
 
+Testing $1+1 =2$.
+
 ## Recent News
 * Spending Summer 2022 at Princeton University, working with [Prof. Jason Lee](https://jasondlee88.github.io).
 * Co-organized the [TTIC Student Workshop](https://ttic-student-workshop.github.io) in August 2021.
