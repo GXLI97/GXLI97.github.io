@@ -36,4 +36,4 @@ Gene Li, Junbo Li, Anmol Kabra, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.\
 ## Notes
 [Some notes on learning theory]({{site.url}}/pdfs/learning_theory.pdf). These notes are mostly for my own personal reference, but others may find them useful. Any mistakes are my own.
 
-Website last updated September 2022.
+Website last updated September 2022. 
