@@ -33,7 +33,7 @@ Gene Li, Pritish Kamath, Dylan J. Foster, Nathan Srebro.\
 **NeurIPS 2022.**
 * [Exponential Family Model-Based Reinforcement Learning via Score Matching](https://arxiv.org/abs/2112.14195)\
 Gene Li, Junbo Li, Anmol Kabra, Nathan Srebro, Zhaoran Wang, Zhuoran Yang.\
-**NeurIPS 2022.** <span style="color:red"> (Oral Presentation). text</span> [[Poster]]({{site.url}}/pdfs/poster_smrl.pdf)
+**NeurIPS 2022.** <span style="color:red"> (Oral Presentation).</span> [[Poster]]({{site.url}}/pdfs/poster_smrl.pdf)
 
 ## Teaching
 * [Statistical and Computational Learning Theory](https://canvas.uchicago.edu/courses/47340) - Winter 2023\
