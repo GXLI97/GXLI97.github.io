@@ -27,6 +27,9 @@ You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pd
 * Spent Fall 2020 as a (virtual) visiting graduate student at the [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program at the [Simons Institute](https://simons.berkeley.edu).
 
 ## Publications
+* Optimistic Rates for Learning with Label Proportions\
+Gene Li, Lin Chen, Adel Javanmard, and Vahab Mirrokni.\
+*Under submission,* 2024.
 * [Dueling Optimization with a Monotone Adversary](https://arxiv.org/abs/2311.11185)\
 Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, and Yuanyuan Yang.\
 **ALT 2024.**\
