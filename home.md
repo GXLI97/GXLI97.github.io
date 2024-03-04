@@ -32,7 +32,7 @@ Gene Li, Lin Chen, Adel Javanmard, and Vahab Mirrokni.\
 *Under submission,* 2024.
 * [Dueling Optimization with a Monotone Adversary](https://arxiv.org/abs/2311.11185)\
 Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, and Yuanyuan Yang.\
-**ALT 2024.**\
+**ALT 2024.** <span style="color:red"> (Outstanding Paper)</span>\
 Short version appeared at **OPT ML Workshop, NeurIPS 2023.** <span style="color:red"> (Oral Presentation)</span>
 * [When is Agnostic Reinforcement Learning Statistically Tractable?](https://arxiv.org/abs/2310.06113)\
 Zeyu Jia, Gene Li, Alexander Rakhlin, Ayush Sekhari, Nathan Srebro.\
