@@ -18,4 +18,5 @@ permalink: /ttij2024/
 [Lecture 4 Notes]({{site.url}}/pdfs/lecture_4_board.pdf)
 [Lecture 4 Colab](https://colab.research.google.com/drive/1NP1OUAhPL5PNAa3p8jk0QVSX7B-iJ3sN?usp=sharing)
 
+[Lecture 5 DRAFT]({{site.url}}/pdfs/lecture_5_draft.pdf)
 [Lecture 5](https://colab.research.google.com/drive/1VH9Zs-tBBz6yqnNntzhCfD_a-1ALwYUd?usp=sharing)
