@@ -16,20 +16,11 @@ If you want to get in touch, you can reach me at: [gene at ttic dot edu].
 
 You can find my (perpetually outdated) CV [here]({{site.url}}/pdfs/gene_li_cv.pdf).
 
-## Recent News
-* New paper accepted to ALT 2024. See you in San Diego!
-* New paper on agnostic policy-based RL accepted to NeurIPS 2023.
-* Started a Google Student Researcher role in July 2023.
-* Attended [RL Summer School](https://rlsummerschool.com) in Barcelona, Spain in June 2023.
-* Three papers accepted to NeurIPS 2022. If you are interested, let us chat!
-* Spent Summer 2022 at Princeton University, working with [Prof. Jason Lee](https://jasondlee88.github.io).
-* Co-organized (with [Kumar Kshitij Patel](http://kkpatel.ttic.edu)) the [TTIC Student Workshop](https://ttic-student-workshop.github.io) in August 2021.
-* Spent Fall 2020 as a (virtual) visiting graduate student at the [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program at the [Simons Institute](https://simons.berkeley.edu).
 
 ## Publications
-* Optimistic Rates for Learning with Label Proportions\
+* [Optimistic Rates for Learning with Label Proportions](https://arxiv.org/abs/2406.00487)\
 Gene Li, Lin Chen, Adel Javanmard, and Vahab Mirrokni.\
-*Under submission,* 2024.
+**COLT 2024.**
 * [Dueling Optimization with a Monotone Adversary](https://arxiv.org/abs/2311.11185)\
 Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, and Yuanyuan Yang.\
 **ALT 2024.** <span style="color:red"> (Outstanding Paper)</span>\
